@@ -4,8 +4,9 @@ Code of a simple server-client program in C using UDP sockets for the transmissi
 Based on:
 http://www.programminglogic.com/sockets-programming-in-c-using-udp-datagrams/
 
-gcc -o client client.c 
+gcc -o client client.c
 gcc -o server server.c
 
 ./client
+
 ./server 
